@@ -1,4 +1,4 @@
-Information management tools like PIM systems will typically export JPG files in text form, since data is 
+Information management tools like PIM systems will typically export JPG files as a .txt link to download the JPEG, since data is 
 exported from these systems in CSV files. This can be annoying when having to use these images, since a link to download
 the image, instead of having the image as a JPG, adds hours onto any tasks requiring large amounts of these images. 
 
